@@ -1,5 +1,4 @@
 import React from 'react';
-import './styles.css';
 import { Form } from './components/form';
 import { FORM_CONFIG } from './constants/formConfig';
 import { PROFILE_CONFIG } from './constants/profileConfig';
